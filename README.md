@@ -65,3 +65,16 @@ El proyecto sigue una arquitectura limpia (Clean Architecture)
    - ✅ Animaciones de navegación
    - ✅ Manejo de estados de carga
    - ✅ Feedback visual para acciones del usuario
+
+## Screenshots
+
+### iPad Air 5th
+![Screenshot 2025-04-10 at 10 41 55 PM](https://github.com/user-attachments/assets/2184be61-18d4-4674-9ba9-10a35111aac6)
+
+### iPhone 16
+![Screenshot 2025-04-10 at 10 42 07 PM](https://github.com/user-attachments/assets/3dd6c1d5-9b35-4c51-aa3a-6be2370568ef)
+
+### iPhone SE (3rd)
+![Screenshot 2025-04-10 at 10 42 01 PM](https://github.com/user-attachments/assets/d290fc1a-9806-40f4-bb7f-33d26614888c)
+
+
